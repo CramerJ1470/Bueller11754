@@ -1,0 +1,16 @@
+/*Name................Shorthand operator...Basic usage
+Assignment..................x = y............x = y
+Addition assignment.........x += y...........x = x + y
+Subtraction assignment......x -= y...........x = x - y
+Multiplication assignment...x *= y...........x = x * y
+Division assignment.........x /= y..........'x = x / y
+Remainder assignment........x %= y...........x = x % y
+Exponentiation assignment...x **= y..........x = x ** y
+*/ 
+ 
+
+
+
+
+
+
